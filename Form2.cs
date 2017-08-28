@@ -19,6 +19,7 @@ namespace Switcher_Desktop
 
         private void Form2_Load(object sender, EventArgs e)
         {
+            MessageBox.Show("Hello", "Hello1", MessageBoxButtons.OK, MessageBoxIcon.Information);
             progressBar1.Value = 1;
         }
     }

@@ -1,0 +1,11 @@
+C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\obj\Debug\Switcher-Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\obj\Debug\Switcher_Desktop.Form1.resources
+C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\obj\Debug\Switcher_Desktop.Form2.resources
+C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\obj\Debug\Switcher_Desktop.Properties.Resources.resources
+C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\obj\Debug\Switcher-Desktop.csproj.GenerateResource.Cache
+C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\obj\Debug\Switcher-Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\bin\Debug\Switcher-Desktop.exe.config
+C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\bin\Debug\Switcher-Desktop.exe
+C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\bin\Debug\Switcher-Desktop.pdb
+C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\obj\Debug\Switcher-Desktop.exe
+C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\obj\Debug\Switcher-Desktop.pdb

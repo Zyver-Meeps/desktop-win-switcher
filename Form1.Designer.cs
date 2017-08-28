@@ -37,6 +37,7 @@
             this.ClientSize = new System.Drawing.Size(731, 472);
             this.Name = "Form1";
             this.Text = "Switcher.Desktop";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }
