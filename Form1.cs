@@ -17,10 +17,12 @@ namespace Switcher_Desktop
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        public void Form1_Load(object sender, EventArgs e)
         {
-            Form2 frm = new Form2();
-            frm.Show();
+            Form2 frm2 = new Form2();
+            Form1 frm1 = new Form1();
+            frm1.Hide();
+            frm2.Show();
         }
     }
 }
