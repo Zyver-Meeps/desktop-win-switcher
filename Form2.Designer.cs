@@ -34,6 +34,11 @@
             this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
+            // timer1
+            // 
+            this.timer1.Enabled = true;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
             // progressBar1
             // 
             this.progressBar1.Location = new System.Drawing.Point(12, 67);
