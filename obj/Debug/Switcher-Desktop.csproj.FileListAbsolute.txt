@@ -8,3 +8,8 @@ C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\bin\Debug\Switcher-Deskt
 C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\bin\Debug\Switcher-Desktop.pdb
 C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\obj\Debug\Switcher-Desktop.exe
 C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\obj\Debug\Switcher-Desktop.pdb
+C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\bin\Debug\Switcher-Desktop.exe.manifest
+C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\bin\Debug\Switcher-Desktop.application
+C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\obj\Debug\Switcher-Desktop.TrustInfo.xml
+C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\obj\Debug\Switcher-Desktop.exe.manifest
+C:\Users\Tr0j4n9!\Documents\GitHub\desktop-win-switcher\obj\Debug\Switcher-Desktop.application
