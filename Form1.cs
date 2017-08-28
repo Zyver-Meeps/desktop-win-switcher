@@ -19,10 +19,20 @@ namespace Switcher_Desktop
 
         public void Form1_Load(object sender, EventArgs e)
         {
-            Form2 frm2 = new Form2();
-            Form1 frm1 = new Form1();
-            frm1.Hide();
-            frm2.Show();
+            MessageBox.Show("Welcome to Switcher. The Licencse is at https://github.com/Zyver-Meeps/desktop-win-switcher/blob/master/LICENSE.txt", "Welcome to Switcher", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+
+
+        }
+
+        private void progressBar1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabPage1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
